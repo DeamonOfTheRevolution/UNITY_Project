@@ -1,0 +1,3 @@
+repository "PR2/PR2@10171190998579@cloud"
+  path "/"
+    smartbranch "/main/PR_3"
